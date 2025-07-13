@@ -55,4 +55,4 @@ This project implements a **4-bit universal shift register** in Verilog that ope
 ## 📂 Files Included
 - `uni_shift_reg.v` – Verilog module
 - `uni_shift_reg_tb.v` – Testbench module
-- `waveform.png` – Simulation waveform screenshot
+- `Wave_uni_shift_reg` – Simulation waveform screenshot
